@@ -19,11 +19,12 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Yang data model for analog map"
+abbrev: "analog-map"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-belotti-nmop-analog-map-latest
+
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
